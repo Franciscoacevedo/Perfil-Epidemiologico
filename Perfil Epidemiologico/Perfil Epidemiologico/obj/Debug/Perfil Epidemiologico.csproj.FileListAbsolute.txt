@@ -1,0 +1,50 @@
+c:\users\francisco\documents\visual studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\Perfil Epidemiologico.exe
+c:\users\francisco\documents\visual studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\Perfil Epidemiologico.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.csprojResolveAssemblyReference.cache
+c:\users\francisco\documents\visual studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Form1.resources
+c:\users\francisco\documents\visual studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Properties.Resources.resources
+c:\users\francisco\documents\visual studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.csproj.GenerateResource.Cache
+c:\users\francisco\documents\visual studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.exe
+c:\users\francisco\documents\visual studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Siguientes.resources
+C:\Users\Francisco\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.PerfilEpidemiologico.resources
+C:\Users\Francisco\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Form2.resources
+C:\Users\Francisco\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.LOGIN.resources
+C:\Users\Francisco\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.REPORTE.resources
+C:\Users\Francisco\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Listados.resources
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.exe
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.pdb
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\Perfil Epidemiologico.exe
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\Perfil Epidemiologico.pdb
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Form1.resources
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Listados.resources
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.LOGIN.resources
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.PerfilEpidemiologico.resources
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Properties.Resources.resources
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.REPORTE.resources
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Siguientes.resources
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.csproj.GenerateResource.Cache
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\Perfil Epidemiologico.exe.config
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\EntityFramework.dll
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\EntityFramework.xml
+C:\Users\Francisco Acevedo\Desktop\Francisco\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\Perfil Epidemiologico.exe.config
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.exe
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.pdb
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\Perfil Epidemiologico.exe
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\EntityFramework.dll
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\EntityFramework.xml
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.csprojResolveAssemblyReference.cache
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Form1.resources
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Listados.resources
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.LOGIN.resources
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.PerfilEpidemiologico.resources
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Properties.Resources.resources
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.REPORTE.resources
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil_Epidemiologico.Siguientes.resources
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\obj\Debug\Perfil Epidemiologico.csproj.GenerateResource.Cache
+C:\Users\Francisco Acevedo\Documents\Visual Studio 2015\Projects\Perfil Epidemiologico\Perfil Epidemiologico\bin\Debug\Perfil Epidemiologico.pdb
